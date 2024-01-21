@@ -1,5 +1,13 @@
 GitHub Setup
-
+1.write this command to your VScode terminal or in CMD
+command: git clone https://github.com/Cloudburst-Code/DesktopERP.git
+2.open the clone folder in your VScode.
+3.Now install this extension in your Vs code
+name : GitHub Pull Requests and Issues
+4.install the packages according to your project
 
 
 Figma Setup
+1. paste this link in Chrome
+link:https://www.figma.com/file/CmJ4ALQzvgIyVJ8nJdEQxm/Minor-Project?type=design&node-id=0%3A1&mode=design&t=N4IPLaGfnh2eOryo-1
+2. Request for Edit option
